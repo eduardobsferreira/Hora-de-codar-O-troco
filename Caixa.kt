@@ -1,5 +1,5 @@
 
-var saldo = 100.5 // Float
+var saldo = 500.5 // Float
 var nome : String = ""
 
 fun main() {
